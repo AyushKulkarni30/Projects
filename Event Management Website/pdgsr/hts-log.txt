@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Apr 2023 12:05:25 at https://techfiesta.netlify.app/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://techfiesta.netlify.app/# -%L https://techfiesta.netlify.app/# -O1 "C:\Users\hp\OneDrive\Desktop\pbl se\pdgsr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:05:25	Error: 	Could not include URL list: https://techfiesta.netlify.app/#
+12:06:14	Error: 	"Not Found" (404) at link https://techfiesta.netlify.app/modules/festlogo-removebg-preview.png (from https://techfiesta.netlify.app/modules/cs)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 62 links scanned, 59 files written (15736183 bytes overall) [13360998 bytes received at 261980 bytes/sec], 3441824 bytes transferred using HTTP compression in 33 files, ratio 28%, 1.1 requests per connection
+(2 errors, 0 warnings, 0 messages)
